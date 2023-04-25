@@ -1,5 +1,5 @@
 body{
-	background-image: url("bilder/sergei-a--heLWtuAN3c-unsplash.jpg");
+	background-image: url("./bilder/teemu-paananen-OOE4xAnBhKo-unsplash.jpg") ;
 	background-repeat:no-repeat;
     background-size:cover;
     background-position:center;
@@ -35,3 +35,12 @@ a{
 }
 .meny>nav a:hover{text-decoration: underline;}
 .active{text-decoration:underline;}
+.text{
+	margin-top:100px;
+	color:white;
+	display: flex;
+	
+}
+.inledning{
+	width:40%;
+}
